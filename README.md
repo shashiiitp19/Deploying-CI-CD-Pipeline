@@ -1,2 +1,3 @@
 # Deploying-CI-CD-Pipeline
-This is a complete project to learn CICD from scratch with Jenkins, Docker, GitHub and AWS.
+
+Implemented a complete CICD workflow for a nodejs app with AWS EC2 and Jenkins using webhooks for Continous Deployment.
